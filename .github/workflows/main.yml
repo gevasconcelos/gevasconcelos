@@ -6,9 +6,9 @@ Marketplace
 Explore
  
 @gevasconcelos 
-rafaballerini
+gevasconcelos
 /
-rafaballerini
+gevasconcelos
 Public
 Code
 Issues
@@ -20,8 +20,8 @@ Projects
 Wiki
 Security
 Insights
-rafaballerini/.github/workflows/cobrinha.yml
-@rafaballerini
+gevasconcelos/.github/workflows/cobrinha.yml
+@gevasconcelos
 rafaballerini Update cobrinha.yml
 Latest commit d2470b3 on 29 May 2021
  History
@@ -44,7 +44,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: rafaballerini
+          github_user_name: gevasconcelos
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
