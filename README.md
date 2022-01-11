@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img align="center" alt = "Ge-NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img align="center" alt = "Ge-C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img align="center" alt = "Ge-Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-   <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/share?cd=g9CJwM0TjO #Picrew #AmphyPop_Doll_Maker"> -->
+    <img align="right" alt="Ge-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930536191563038753/930536632153698444/download20220102152904.png">
     
 </div>
   
