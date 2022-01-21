@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <img align="center" alt = "Ge-HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" alt = "Ge-Javascript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img align="center" alt = "Ge-NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+     <img align="center" alt = "Ge-Angular" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
     <img align="center" alt = "Ge-C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img align="center" alt = "Ge-Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img align="right" alt="Ge-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930536191563038753/930536632153698444/download20220102152904.png">
