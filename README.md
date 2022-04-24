@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-    <img align="center" alt = "Ge-Linux"  src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<!--     <img align="center" alt = "Ge-Linux"  src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
    <img align="center" alt = "Ge-Git" src="https://img.icons8.com/color/48/000000/git.png"/>
     <img align="center" alt = "Ge-CSS"  src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" alt = "Ge-HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img align="center" alt = "Ge-Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img align="right" alt="Ge-pic" height="150" style="border-radius:50px;" 
 <!--          src="https://cdn.discordapp.com/attachments/930536191563038753/930536632153698444/download20220102152904.png">
-     -->
+     --> 
 </div>
   
  ##
