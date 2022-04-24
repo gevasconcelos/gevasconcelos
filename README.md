@@ -32,6 +32,7 @@ Here are some ideas to get you started:
    <img align="center" alt = "Ge-Git" src="https://img.icons8.com/color/48/000000/git.png"/>
     <img align="center" alt = "Ge-CSS"  src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" alt = "Ge-HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" alt = "Ge-Javascript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img align="center" alt = "Ge-NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
      <img align="center" alt = "Ge-Angular" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
