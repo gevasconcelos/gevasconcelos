@@ -41,6 +41,20 @@ Here are some ideas to get you started:
     <img align="right" alt="Ge-pic" height="150" style="border-radius:50px;" 
 <!--          src="https://cdn.discordapp.com/attachments/930536191563038753/930536632153698444/download20220102152904.png">
      --> 
+   
+   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+   <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
+   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+   
+   
 </div>
   
  ##
